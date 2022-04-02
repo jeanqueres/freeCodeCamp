@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Jean Souza Queres",
-	"description": "A project that does something awesome. Not quite sure what yet."
+	"description": "A project that does something awesome. Not quite sure what yet.",
+	"keywords": ["descriptive", "related", "words", "freecodecamp"]
 }
