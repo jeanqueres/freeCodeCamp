@@ -14,5 +14,6 @@
 	"author": "Jean Souza Queres",
 	"description": "A project that does something awesome. Not quite sure what yet.",
 	"keywords": ["descriptive", "related", "words", "freecodecamp"],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "1.0.0"
 }
